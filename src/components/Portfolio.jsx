@@ -11,7 +11,7 @@ import myImage6 from '../assets/images/submarine.png'
 export default function Portfolio() {
   return (
     <>
-      <div className="portfolio">
+      <div className="portfolio" id='portfolio'>
         <div className="container d-flex flex-column gap-4 align-items-center">
             <h2>PORTFOLIO</h2>
             <CustomIcon color="dark"/>
