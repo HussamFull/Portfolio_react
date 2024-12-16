@@ -4,7 +4,7 @@ import CustomIcon from './shared/CustomIcon';
 
 
 
-export default function header() {
+export default function Header() {
   return (
     <>
       <div className="header d-flex justify-content-center align-items-center">
