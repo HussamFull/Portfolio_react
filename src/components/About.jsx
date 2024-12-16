@@ -14,7 +14,7 @@ export default function About() {
     <CustomIcon color="light"/>
     <div className="divider-custom divider-light">
       <div className="divider-custom-line" />
-      <div className="divider-custom-icon"><i className="fas fa-star" /></div>
+      <div className="divider-custom-icon"></div>
       <div className="divider-custom-line" />
     </div>
     
