@@ -11,7 +11,7 @@ export default function NavBar() {
                 <div className="navbar-nav d-flex gap-4">
                     <a className="nav-link fw-bold text-light" href="#portfolio">PORTFOLIO</a>
                     <a className="nav-link fw-bold text-light" href="#about">ABOUT</a>
-                    <a className="nav-link fw-bold text-light" href="#">CONTACT</a>
+                    <a className="nav-link fw-bold text-light" href="#contact">CONTACT</a>
                 </div>
             </div>
         </div>

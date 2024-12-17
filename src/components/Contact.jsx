@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <>
     
-    <div className="about bg-light">
+    <div className="about bg-light " id="contact">
         <div className="container d-flex flex-column align-items-center gap-5">
             <h2>CONTACT ME</h2>
             <CustomIcon color="#2C3E50"/>
